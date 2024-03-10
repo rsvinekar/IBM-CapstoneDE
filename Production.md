@@ -96,17 +96,17 @@ Name the screenshot mqt.jpg. (Images can be saved with either the .jpg or .png e
 In IBM DB2, there is a difference in the syntax:
 instead of PosgreSQL
 ```
-	CREATE MATERIALIZED VIEW ...(...) AS (
-	...
-	);
-	REFRESH MATERIALIZED VIEW ...;
+CREATE MATERIALIZED VIEW ...(...) AS (
+...
+);
+REFRESH MATERIALIZED VIEW ...;
 ```
 IBM DB2 uses 
 ```
-	CREATE TABLE ...(...) AS (
-	...
-	)
-    DATA INITIALLY DEFERRED
-    REFRESH DEFERRED
-    MAINTAINED BY SYSTEM;
+CREATE TABLE ...(...) AS (
+...
+)
+DATA INITIALLY DEFERRED
+REFRESH DEFERRED
+MAINTAINED BY SYSTEM;
 ```
