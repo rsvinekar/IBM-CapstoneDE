@@ -49,5 +49,5 @@ Please click on the links below to see each section
 
 -   Business Intelligence Dashboard - IBM Cognos Analytics
 
-|  PREV  [README](README.md)  | NEXT : [OLTP database - MySQL](OLTP.md)
+|  PREV : [README](README.md)  | NEXT : [OLTP database - MySQL](OLTP.md)
 |---|---|

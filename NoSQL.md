@@ -74,6 +74,6 @@ mongoexport.jpg
 
 
 
-|  PREV  [OLTP database - MySQL](OLTP.md)  | [Staging Data warehouse – PostgreSQL](datawarehouse.md)
+|  PREV : [OLTP database - MySQL](OLTP.md)  | NEXT : [Staging Data warehouse – PostgreSQL](datawarehouse.md)
 |---|---|
 
