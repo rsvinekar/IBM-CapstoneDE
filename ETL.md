@@ -38,7 +38,7 @@ This function must connect to the DB2 data warehouse and insert all the given re
 Option B: If you choose PostgreSQL as the data warehouse:
 This function must connect to the PostgreSQL data warehouse and insert all the given records.
 Take a screenshot of the python code clearly showing the implementation of the function insert_records().
-![Screenshot Materrialized query](workscreenshots/insert_records_.png)
+![Screenshot Materrialized query](workscreenshots/insert_records.png)
 Name the screenshot insert_records.jpg. (Images can be saved with either the .jpg or .png extension.)
 
 ## Task 4 - Test the data synchronization
