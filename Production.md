@@ -33,9 +33,9 @@ Before you start the assignment:
 In this exercise you will load the data into the tables. You will load the data provided by the company in csv format.
 
 ## Task 1 - Load data into the dimension table DimDate
-# Download the data from this link [DimDate.csv](DimDate.csv)
+Download the data from this link [DimDate.csv](DimDate.csv)
 
-# Load the downloaded data into DimDate table.
+Load the downloaded data into DimDate table.
 
 Take a screenshot of the first 5 rows in the table DimDate.
 ![Screenshot of 5 rows of DimDate](DimDate.png)
