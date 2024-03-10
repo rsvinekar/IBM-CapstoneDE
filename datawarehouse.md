@@ -42,7 +42,7 @@ monthname
 
 …
 
-![softcartDimDate](softcartDimDate.png)
+![softcartDimDate](softcartDimDate.jpg)
 
 ## Task 2 - Design the dimension table softcartDimCategory
 Using the ERD design tool design the table softcartDimCategory.
