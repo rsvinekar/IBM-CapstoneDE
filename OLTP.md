@@ -42,7 +42,7 @@ Design a table named sales_data based on the sample data given.
 
 Create the sales_data table in sales database.
 
-![MySQL create sales_data table](createtable.png)
+![MySQL create sales_data table](workscreenshots/createtable.png)
 
 # Exercise - Load the Data
 
@@ -52,18 +52,18 @@ Create the sales_data table in sales database.
 - Import the data from oltpdata.csv into sales_data table using phpMyAdmin.
 
 Screenshot of the phpMyAdmin import status.
-![Screenshot of the phpMyAdmin import status](importdata.png)
+![Screenshot of the phpMyAdmin import status](workscreenshots/importdata.png)
 importdata.png
 
 
 ## Task 4 - List the tables in the database sales.
 
-![screenshot of the command you used and the output](listtables.png)
+![screenshot of the command you used and the output](workscreenshots/listtables.png)
 listtables.png
 
 ## Task 5. Write a query to find out the count of records in the tables sales_data.
 
-![query to find out the count of records in the tables sales_data](salesrows.png)
+![query to find out the count of records in the tables sales_data](workscreenshots/salesrows.png)
 salesrows.png
 
 # Exercise - Set up Admin tasks
@@ -72,8 +72,8 @@ Create an index named ts on the timestamp field.
 
 Task 7 - List indexes
 List indexes on the table sales_data.
-![List indexes on the table sales_data](listindexes.png)
+![List indexes on the table sales_data](workscreenshots/listindexes.png)
 
 Task 8 - Write a bash script to export data.
 Write a bash script named datadump.sh that exports all the rows in the sales_data table to a file named sales_data.sql
-![bash script named datadump.sh that exports all the rows in the sales_data table](exportdata.png)
+![bash script named datadump.sh that exports all the rows in the sales_data table](workscreenshots/exportdata.png)
