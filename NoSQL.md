@@ -72,4 +72,8 @@ mongo-query-mobiles2.jpg.
 
 mongoexport.jpg
 
-# NEXT : [NoSql database - MongoDB](NoSQL.md)
+
+
+|  PREV  [OLTP database - MySQL](OLTP.md)  | [Staging Data warehouse – PostgreSQL](datawarehouse.md)
+|---|---|
+

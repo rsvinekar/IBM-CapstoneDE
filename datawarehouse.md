@@ -76,3 +76,6 @@ Download the schema sql from ERD tool and create the schema in a database named 
 Take a screenshot showing the success of the schema creation.
 
 ![Create Schema](workscreenshots/createschema.png)
+
+|  PREV  [NoSql database - MongoDB](NoSQL.md)  | NEXT : [Production Data warehouse – PostgresSQL or IBM DB2 on cloud](Production.md)
+|---|---|
