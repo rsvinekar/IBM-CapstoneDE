@@ -10,9 +10,11 @@ SoftCart uses a hybrid architecture, with some of its databases on premises and 
 
 -   [NoSql database - MongoDB](NoSQL.md)
 
+-   [Staging Data warehouse – PostgreSQL](datawarehouse.md)
+
 -   Production Data warehouse – DB2 on Cloud
 
--   [Staging Data warehouse – PostgreSQL](datawarehouse.md)
+-   Data Pipelines - Apache Airflow
 
 -   Big data platform - Hadoop
 
@@ -20,7 +22,6 @@ SoftCart uses a hybrid architecture, with some of its databases on premises and 
 
 -   Business Intelligence Dashboard - IBM Cognos Analytics
 
--   Data Pipelines - Apache Airflow
 
 ## Process:
 
