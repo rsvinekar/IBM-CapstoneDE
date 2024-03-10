@@ -1,73 +1,44 @@
-# Objectives
+# OLTP database requirements and design
 
-In this assignment, the tasks are:
 
--   import data into a MongoDB database.
+## OLTP database
+OLTP database is generally used to handle every day business transactions of an organization like a bank or a super market chain. OLTP databases can be write heavy or may have a balanced read/write load.
 
--   query data in a MongoDB database.
+## OLTP database requirements:
+An OLTP database is expected to handle a huge number of transactions per second. Each transaction usually involves accessing (read/write) a small portion of the database, in other words the payload per transaction is small.
 
--   export data from MongoDB.
+The time taken to execute a transaction usually called latency needs to be very less.
 
-# Tools / Software
+## OLTP database design:
+The schema of an OLTP database is higly normalized so as to achieve a very low latency. To further improve the latency an OLTP database stores only the recent data like the last few week's data. They are usually run on storage that is very fast like SSD.
 
--   MongoDB Server
+# Scenario
+You are a data engineer at an e-commerce company. Your company needs you to design a data platform that uses MySQL as an OLTP database. You will be using MySQL to store the OLTP data.
 
--   MongoDB Command Line Backup Tools
+## Objectives
+In this assignment you will:
 
-## Exercise 1 - Check the lab environment
+- design the schema for OLTP database.
+- load data into OLTP database.
+- automate admin tasks.
 
-Before you proceed with the assignment :
+## Tools / Software
+- MySQL 8.0.22
+- phpMyAdmin 5.0.4
 
--   Check if you have the ‘mongoimport’ and ‘mongoexport’ installed on the lab, otherwise install them.
+# Exercise - Design the OLTP Database
+## Task 1 - Create a database.
+Create a database named sales.
+```
+>CREATE DATABASE sales;
+>USE sales;
+```
 
--   Download the catalog.json file.
+## Task 2 - Design a table named sales_data.
+Design a table named sales_data based on the sample data given.
+![MySQL sample table](sampledata.png)
 
-## Exercise 2 - Working with MongoDB
 
-### Task 1 - Import ‘catalog.json’ into mongodb server into a database named ‘catalog’ and a collection named ‘electronics’
+Create the sales_data table in sales database.
 
-![MongoDB Import ‘catalog.json’ into mongodb server](mongoimport.png)
-
-mongoimport.jpg
-
-### Task 2 - List out all the databases
-
-![MongoDB List out all the databases](list-dbs.png)
-
-list-dbs.jpg.
-
-### Task 3 - List out all the collections in the database ‘catalog’.
-
-![MongoDB List out all the collections in the database ‘catalog’](list-collections.png)
-
-list-collections.jpg
-
-### Task 4 - Create an index on the field “type”
-
-![MongoDB Create an index on the field “type”](create-index.png)
-
-create-index.jpg
-
-### Task 5 - Write a query to find the count of laptops
-
-![MongoDB query to find the count of laptops](mongo-query-laptops.png)
-
-mongo-query-laptops.jpg
-
-### Task 6 - Write a query to find the number of ‘smart phones’ with screen size of 6 inches.
-
-![MongoDB query to find the number of ‘smart phones’ with screen size of 6 inches.](mongo-query-mobiles1.png)
-
-mongo-query-mobiles1.jpg
-
-### Task 7. Write a query to find out the average screen size of ‘smart phones’ .
-
-![MongoDB query to find out the average screen size of ‘smart phones’](mongo-query-mobiles2.png)
-
-mongo-query-mobiles2.jpg.
-
-### Task 8 - Export the fields \_id, “type”, “model”, from the ‘electronics’ collection into a file named ‘electronics.csv’
-
-**![MongoDB Export fields from 'electronics' collection](mongoexport.png)**
-
-mongoexport.jpg
+![MySQL create sales_data table](createtable.png)

@@ -6,9 +6,9 @@ SoftCart uses a hybrid architecture, with some of its databases on premises and 
 
 ## Tools and Technologies:
 
--   OLTP database - MySQL
+-   [OLTP database - MySQL](OLTP.md)
 
--   NoSql database - MongoDB
+-   [NoSql database - MongoDB](NoSQL.md)
 
 -   Production Data warehouse – DB2 on Cloud
 
