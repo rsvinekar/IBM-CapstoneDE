@@ -38,7 +38,7 @@ Download the data from this link [DimDate.csv](DimDate.csv)
 Load the downloaded data into DimDate table.
 
 Take a screenshot of the first 5 rows in the table DimDate.
-![Screenshot of 5 rows of DimDate](DimDate.png)
+![Screenshot of 5 rows of DimDate](dimdate.png)
 
 
 ## Task 2 - Load data into the dimension table DimCategory
@@ -46,7 +46,7 @@ Download the data from this link [DimCategory.csv](DimCategory.csv)
 Load the downloaded data into DimCategory table.
 
 Take a screenshot of the first 5 rows in the table DimCategory.
-![Screenshot of 5 rows of DimCategory](DimCategory.png)
+![Screenshot of 5 rows of DimCategory](dimcategory.png)
 
 ## Task 3 - Load data into the dimension table DimCountry
 Download the data from this link [DimCountry.csv](DimCountry.csv)
@@ -54,7 +54,7 @@ Download the data from this link [DimCountry.csv](DimCountry.csv)
 Load the downloaded data into DimCountry table.
 
 Take a screenshot of the first 5 rows in the table DimCountry.
-![Screenshot of 5 rows of DimCountry](DimCountry.png)
+![Screenshot of 5 rows of DimCountry](dimcountry.png)
 Name the screenshot DimCountry.jpg. (Images can be saved with either the .jpg or .png extension.)
 
 ## Task 4 - Load data into the fact table FactSales
@@ -63,7 +63,7 @@ Download the data from this link [FactSales.csv](FactSales.csv)
 Load this data into FactSales table.
 
 Take a screenshot of the first 5 rows in the table FactSales.
-![Screenshot of 5 rows of FactSales](FactSales.png)
+![Screenshot of 5 rows of FactSales](factsales.png)
 
 # Queries for data analytics
 In this exercise you will query the data you have loaded in the previous exercise.
