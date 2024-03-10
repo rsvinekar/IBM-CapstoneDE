@@ -106,9 +106,7 @@ Take a screenshot of the DAG runs for the Airflow console.
 ![submit dag](workscreenshots/dag_runs.png)
 Name the screenshot dag_runs.jpg. (Images can be saved with either the .jpg or .png extension.)
 
-
-
-
-|  PREV : [Data Pipelines - Python ETL](ETL.md)  | NEXT : [Business Intelligence Dashboard - IBM Cognos Analytics](Cognos.md)
-|---|---|
+---
+|  PREV : [Data Pipelines - Python ETL](ETL.md)  | UP:  [Project Main](Project.md) | NEXT : [Business Intelligence Dashboard - IBM Cognos Analytics](Cognos.md)
+|---|---|---|
 
