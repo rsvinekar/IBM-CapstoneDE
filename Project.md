@@ -41,13 +41,15 @@ Please click on the links below to see each section
 
 -   [Production Data warehouse – PostgresSQL or IBM DB2 on cloud](Production.md)
 
--   Data Pipelines - Apache Airflow
+-   [Data Pipelines - Python ETL](ETL.md)
 
--   Big data platform - Hadoop
+-   [Data Pipelines - Apache Airflow](Airflow.md)
 
--   Big data analytics platform – Spark
+-   [Business Intelligence Dashboard - IBM Cognos Analytics](Cognos.md)
 
--   Business Intelligence Dashboard - IBM Cognos Analytics
+-   [Big data analytics platform – Spark](Spark.md)
+
+
 
 |  PREV : [README](README.md)  | NEXT : [OLTP database - MySQL](OLTP.md)
 |---|---|
