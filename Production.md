@@ -65,36 +65,48 @@ Load this data into FactSales table.
 Take a screenshot of the first 5 rows in the table FactSales.
 ![Screenshot of 5 rows of FactSales](FactSales.png)
 
-Name the screenshot FactSales.jpg. (Images can be saved with either the .jpg or .png extension.)
-
-Queries for data analytics
+# Queries for data analytics
 In this exercise you will query the data you have loaded in the previous exercise.
 
-Task 5 - Create a grouping sets query
+## Task 5 - Create a grouping sets query
 Create a grouping sets query using the columns country, category, totalsales.
 
 Take a screenshot of the sql and the output rows.
+![Screenshot groupingsets query](groupingsets.png)
 
-Name the screenshot groupingsets.jpg. (Images can be saved with either the .jpg or .png extension.)
-
-Task 6 - Create a rollup query
+## Task 6 - Create a rollup query
 Create a rollup query using the columns year, country, and totalsales.
 
 Take a screenshot of the sql and the output rows.
+![Screenshot rollup query](rollup.png)
 
-Name the screenshot rollup.jpg. (Images can be saved with either the .jpg or .png extension.)
-
-Task 7 - Create a cube query
+## Task 7 - Create a cube query
 Create a cube query using the columns year, country, and average sales.
 
 Take a screenshot of the sql and the output rows.
+![Screenshot rollup query](cube.png)
 
-Name the screenshot cube.jpg. (Images can be saved with either the .jpg or .png extension.)
-
-Task 8 - Create an MQT
+## Task 8 - Create an MQT - Materialized Query Table
 Create an MQT named total_sales_per_country that has the columns country and total_sales.
 
 Take a screenshot of the sql.
-
+![Screenshot Materrialized query](mqt.png)
 Name the screenshot mqt.jpg. (Images can be saved with either the .jpg or .png extension.)
 
+In IBM DB2, there is a difference in the syntax:
+instead of PosgreSQL
+```
+	CREATE MATERIALIZED VIEW ...(...) AS (
+	...
+	);
+	REFRESH MATERIALIZED VIEW ...;
+```
+IBM DB2 uses 
+```
+	CREATE TABLE ...(...) AS (
+	...
+	)
+    DATA INITIALLY DEFERRED
+    REFRESH DEFERRED
+    MAINTAINED BY SYSTEM;
+```
