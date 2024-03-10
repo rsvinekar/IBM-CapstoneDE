@@ -74,5 +74,6 @@ Take a screenshot of the bar chart you created.
 ![barchart](workscreenshots/barchart.png)
 Name the screenshot as barchart.jpg. (images can be saved with either .jpg or .png extension)
 
-|  PREV : [Production Data warehouse – PostgresSQL or IBM DB2 on cloud](Production.md) | NEXT : [Big data analytics platform – Spark](Spark.md)
-|---|---|
+---
+|  PREV : [Production Data warehouse – PostgresSQL or IBM DB2 on cloud](Production.md) | UP:  [Project Main](Project.md) | NEXT : [Big data analytics platform – Spark](Spark.md)
+|---|---|---|

@@ -113,5 +113,6 @@ REFRESH DEFERRED
 MAINTAINED BY SYSTEM;
 ```
 
-|  PREV : [Staging Data warehouse – PostgreSQL](datawarehouse.md)  | NEXT : [Business Intelligence Dashboard - IBM Cognos Analytics](Cognos.md)
-|---|---|
+---
+|  PREV : [Staging Data warehouse – PostgreSQL](datawarehouse.md)  | UP: [Project Main](Project.md) | NEXT : [Business Intelligence Dashboard - IBM Cognos Analytics](Cognos.md)
+|---|---|---|

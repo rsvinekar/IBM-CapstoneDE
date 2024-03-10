@@ -56,5 +56,6 @@ Take a screenshot of the code and name it as loadmodel.jpg)
 ![forecast](workscreenshots/forecast.png)
 Take a screenshot of the code and name it as forecast.jpg
 
-|  PREV : [Business Intelligence Dashboard - IBM Cognos Analytics](Cognos.md) | NEXT : Thanks for your attention!!
-|---|---|
+---
+|  PREV : [Business Intelligence Dashboard - IBM Cognos Analytics](Cognos.md) | UP:  [Project Main](Project.md) | NEXT : Thanks for your attention!!
+|---|---|---|

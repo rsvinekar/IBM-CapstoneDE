@@ -51,6 +51,7 @@ Take a screenshot of the program output .
 ![Screenshot Materrialized query](workscreenshots/synchronization.png)
 Name the screenshot synchronization.jpg. (Images can be saved with either the .jpg or .png extension.)
 
-|  PREV : [Production Data warehouse – PostgresSQL or IBM DB2 on cloud](Production.md)  | NEXT : [Data Pipelines - Apache Airflow](Airflow.md)
-|---|---|
+---
+|  PREV : [Production Data warehouse – PostgresSQL or IBM DB2 on cloud](Production.md)  | UP:  [Project Main](Project.md) | NEXT : [Data Pipelines - Apache Airflow](Airflow.md)
+|---|---|---|
 

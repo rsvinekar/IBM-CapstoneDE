@@ -71,12 +71,14 @@ salesrows.png
 ## Task 6 - Create an index
 Create an index named ts on the timestamp field.
 
-Task 7 - List indexes
+## Task 7 - List indexes
 List indexes on the table sales_data.
 ![List indexes on the table sales_data](workscreenshots/listindexes.png)
 
-Task 8 - Write a bash script to export data.
+## Task 8 - Write a bash script to export data.
 Write a bash script named datadump.sh that exports all the rows in the sales_data table to a file named sales_data.sql
 ![bash script named datadump.sh that exports all the rows in the sales_data table](workscreenshots/exportdata.png)
-|  PREV  [Project Main](Project.md)  | NEXT : [NoSql database - MongoDB](NoSQL.md)
-|---|---|
+
+---
+|  PREV  [Project Main](Project.md)  | UP:  [Project Main](Project.md) | NEXT : [NoSql database - MongoDB](NoSQL.md)
+|---|---|---|

@@ -81,5 +81,6 @@ Take a screenshot showing the success of the schema creation.
 
 ![Create Schema](workscreenshots/createschema.png)
 
-|  PREV : [NoSql database - MongoDB](NoSQL.md)  | NEXT : [Production Data warehouse – PostgresSQL or IBM DB2 on cloud](Production.md)
-|---|---|
+---
+|  PREV : [NoSql database - MongoDB](NoSQL.md) | UP:  [Project Main](Project.md) | NEXT : [Production Data warehouse – PostgresSQL or IBM DB2 on cloud](Production.md)
+|---|---|---|

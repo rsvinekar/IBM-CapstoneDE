@@ -79,8 +79,7 @@ mongo-query-mobiles2.jpg.
 
 mongoexport.jpg
 
-
-
-|  PREV : [OLTP database - MySQL](OLTP.md)  | NEXT : [Staging Data warehouse – PostgreSQL](datawarehouse.md)
-|---|---|
+---
+|  PREV : [OLTP database - MySQL](OLTP.md)  | UP:  [Project Main](Project.md) | NEXT : [Staging Data warehouse – PostgreSQL](datawarehouse.md)
+|---|---|---|
 
