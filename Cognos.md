@@ -62,16 +62,16 @@ Name the screenshot as linechart.jpg. (images can be saved with either .jpg or .
 
 Task 5 - Create a pie chart
 Create a pie chart of category wise total sales.
-![piechart](workscreenshots/piechart.png)
-Take a screenshot of the pie chart you created.
 
+Take a screenshot of the pie chart you created.
+![piechart](workscreenshots/piechart.png)
 Name the screenshot as piechart.jpg. (images can be saved with either .jpg or .png extension)
-![barchart](workscreenshots/barchart.png)
-Task 6 - Create a bar chart
+
+# Task 6 - Create a bar chart
 Create a bar chart of Quarterly sales of mobile phones
 
 Take a screenshot of the bar chart you created.
-
+![barchart](workscreenshots/barchart.png)
 Name the screenshot as barchart.jpg. (images can be saved with either .jpg or .png extension)
 
 |  PREV : [Production Data warehouse – PostgresSQL or IBM DB2 on cloud](Production.md) | NEXT : [Big data analytics platform – Spark](Spark.md)
