@@ -1,5 +1,6 @@
 # OLTP database requirements and design
 
+---
 
 ## OLTP database
 OLTP database is generally used to handle every day business transactions of an organization like a bank or a super market chain. OLTP databases can be write heavy or may have a balanced read/write load.
@@ -30,8 +31,8 @@ In this assignment you will:
 ## Task 1 - Create a database.
 Create a database named sales.
 ```
->CREATE DATABASE sales;
->USE sales;
+mysql>CREATE DATABASE sales;
+mysql>USE sales;
 ```
 
 ## Task 2 - Design a table named sales_data.
