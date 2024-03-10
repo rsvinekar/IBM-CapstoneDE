@@ -12,7 +12,7 @@ SoftCart uses a hybrid architecture, with some of its databases on premises and 
 
 -   Production Data warehouse – DB2 on Cloud
 
--   Staging Data warehouse – PostgreSQL
+-   [Staging Data warehouse – PostgreSQL](datawarehouse.md)
 
 -   Big data platform - Hadoop
 
