@@ -1,7 +1,15 @@
 # IBM-CapstoneDE
- Data Engineering Capstone Project.
- Most of the work in the top level of this repository is sourced from the IBM course and is provided for context. 
- Some data files are missing, which is intentional as the material given here should not be used for anything other than providing context for the work done in the course.
- My work is provided in the screenshots in the [workscreenshots](workscreenshots/) directory
+
+---
+# Data Engineering Capstone Project repository
+---
  
- The project is further described in [the documents here](Project.md)
+ Most of the work in the top level of this repository is taken from the IBM course and is provided for context. 
+ 
+ 
+ The project is further described in [the documents here](Project.md). The Project is mainly documented via screenshots
+ The screenshots in the [workscreenshots](workscreenshots/) directory are the product of my work in this project.
+ Please click the **NEXT** link below.
+ ---
+|  PREV : **Click NEXT** | UP:  **This Document** | NEXT : [Project Main](Project.md)
+|---|---|---|
