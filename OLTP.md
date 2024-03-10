@@ -77,3 +77,5 @@ List indexes on the table sales_data.
 Task 8 - Write a bash script to export data.
 Write a bash script named datadump.sh that exports all the rows in the sales_data table to a file named sales_data.sql
 ![bash script named datadump.sh that exports all the rows in the sales_data table](workscreenshots/exportdata.png)
+|  PREV  [Project Main](Project.md)  | PREV : [NoSql database - MongoDB](NoSQL.md)
+|---|---|

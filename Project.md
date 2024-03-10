@@ -1,27 +1,12 @@
+# Data Engineering Capstone project on Coursera
+The text provided here was copied from material from the course
+---
+---
+
 # Introduction
 
 The data platform architecture of an ecommerce company named SoftCart.
-
 SoftCart uses a hybrid architecture, with some of its databases on premises and some on cloud.
-
-## Tools and Technologies:
-
--   [OLTP database - MySQL](OLTP.md)
-
--   [NoSql database - MongoDB](NoSQL.md)
-
--   [Staging Data warehouse – PostgreSQL](datawarehouse.md)
-
--   [Production Data warehouse – PostgresSQL or IBM DB2 on cloud](Production.md)
-
--   Data Pipelines - Apache Airflow
-
--   Big data platform - Hadoop
-
--   Big data analytics platform – Spark
-
--   Business Intelligence Dashboard - IBM Cognos Analytics
-
 
 ## Process:
 
@@ -44,3 +29,25 @@ SoftCart's webserver is driven entirely by these two databases.
 -   SoftCart uses Hadoop cluster as its big data platform where all the data is collected for analytics purposes.
 
 -   Apache Spark is used to analyse the data on the Hadoop cluster.
+
+## Tools and Technologies:
+Please click on the links below to see each section
+
+-   [OLTP database - MySQL](OLTP.md)
+
+-   [NoSql database - MongoDB](NoSQL.md)
+
+-   [Staging Data warehouse – PostgreSQL](datawarehouse.md)
+
+-   [Production Data warehouse – PostgresSQL or IBM DB2 on cloud](Production.md)
+
+-   Data Pipelines - Apache Airflow
+
+-   Big data platform - Hadoop
+
+-   Big data analytics platform – Spark
+
+-   Business Intelligence Dashboard - IBM Cognos Analytics
+
+
+
