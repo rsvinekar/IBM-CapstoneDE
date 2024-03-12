@@ -18,7 +18,7 @@ This function must connect to the DB2 data warehouse and return the last rowid.
 
 Option B: If you choose PostgreSQL as the data warehouse:
 This function must connect to the PostgreSql as the data warehouse and return the last rowid.
-![Screenshot Materrialized query](workscreenshots/get_last_rowid.png)
+![Screenshot Materrialized query](../workscreenshots/get_last_rowid.png)
 Take a screenshot of the python code clearly showing the implementation of the function get_last_rowid().
 
 Name the screenshot get_last_rowid.jpg. (Images can be saved with either the .jpg or .png extension.)
@@ -29,7 +29,7 @@ In the program automation.py implement the function get_latest_records()
 This function must connect to the MySQL database and return all records later than the given last_rowid.
 
 Take a screenshot of the python code clearly showing the implementation of the function get_latest_records().
-![Screenshot Materrialized query](workscreenshots/get_latest_records.png)
+![Screenshot Materrialized query](../workscreenshots/get_latest_records.png)
 Name the screenshot get_latest_records.jpg. (Images can be saved with either the .jpg or .png extension.)
 
 ## Task 3 - Implement the function insert_records()
@@ -41,14 +41,14 @@ This function must connect to the DB2 data warehouse and insert all the given re
 Option B: If you choose PostgreSQL as the data warehouse:
 This function must connect to the PostgreSQL data warehouse and insert all the given records.
 Take a screenshot of the python code clearly showing the implementation of the function insert_records().
-![Screenshot Materrialized query](workscreenshots/insert_records.png)
+![Screenshot Materrialized query](../workscreenshots/insert_records.png)
 Name the screenshot insert_records.jpg. (Images can be saved with either the .jpg or .png extension.)
 
 ## Task 4 - Test the data synchronization
 Run the program automation.py and test if the synchronization is happening as expected.
 
 Take a screenshot of the program output .
-![Screenshot Materrialized query](workscreenshots/synchronization.png)
+![Screenshot Materrialized query](../workscreenshots/synchronization.png)
 Name the screenshot synchronization.jpg. (Images can be saved with either the .jpg or .png extension.)
 
 ---

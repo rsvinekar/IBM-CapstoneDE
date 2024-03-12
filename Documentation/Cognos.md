@@ -26,7 +26,7 @@ Take a screenshot of the command you used to load the data into the data warehou
 
 Option B: If you choose to load the data directly into Cognos:
 Upload the downloaded csv file ecommerce.csv into Cognos Analytics and take a screenshot of successful loading of the CSV file into Cognos.
-![Data import into Cognos](workscreenshots/dataimport.png)
+![Data import into Cognos](../workscreenshots/dataimport.png)
 Name the screenshot as dataimport.jpg. (images can be saved with either .jpg or .png extension)
 
 Task 2 - List top 10 rows
@@ -37,7 +37,7 @@ Take a screenshot of the first 10 rows of the table.
 
 Option B: If you choose Cognos Analytics to complete the task:
 Convert the uploaded dataset ecommerce.csv into a Data module and take a screenshot of the first 10 rows of the table.
-![Top10Rows](workscreenshots/top10rows.png)
+![Top10Rows](../workscreenshots/top10rows.png)
 Name the screenshot as top10rows.jpg. (images can be saved with either .jpg or .png extension)
 
 # Exercise 2 - Accessing the DataSource in Cognos
@@ -49,7 +49,7 @@ Take a screenshot of the command you used and the output.
 
 Option B: If you choose Cognos Analytics to complete the task:
 Take a screenshot of the datasource in the Cognos Analytics workspace.
-![Datasource](workscreenshots/datasource.png)
+![Datasource](../workscreenshots/datasource.png)
 Name the screenshot as datasource.jpg. (images can be saved with either .jpg or .png extension)
 
 # Exercise 3 - Create a dashboard
@@ -57,21 +57,21 @@ Name the screenshot as datasource.jpg. (images can be saved with either .jpg or 
 Create a line chart of month wise total sales for the year 2020.
 
 Take a screenshot of the line chart you created.
-![linechart](workscreenshots/linechart.png)
+![linechart](../workscreenshots/linechart.png)
 Name the screenshot as linechart.jpg. (images can be saved with either .jpg or .png extension)
 
 Task 5 - Create a pie chart
 Create a pie chart of category wise total sales.
 
 Take a screenshot of the pie chart you created.
-![piechart](workscreenshots/piechart.png)
+![piechart](../workscreenshots/piechart.png)
 Name the screenshot as piechart.jpg. (images can be saved with either .jpg or .png extension)
 
 # Task 6 - Create a bar chart
 Create a bar chart of Quarterly sales of mobile phones
 
 Take a screenshot of the bar chart you created.
-![barchart](workscreenshots/barchart.png)
+![barchart](../workscreenshots/barchart.png)
 Name the screenshot as barchart.jpg. (images can be saved with either .jpg or .png extension)
 
 ---

@@ -51,5 +51,5 @@ Please click on the links below to see each section
 
 
 ---
-|  PREV : [README](README.md)  | UP:  **This Document** | NEXT : [OLTP database - MySQL](OLTP.md)
+|  PREV : [README](../README.md)  | UP:  **This Document** | NEXT : [OLTP database - MySQL](OLTP.md)
 |---|---|---|
