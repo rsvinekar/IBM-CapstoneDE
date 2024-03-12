@@ -26,7 +26,7 @@ The dataset you would be using in this assignment is not a real life dataset. It
 
 Exercise 1 - Design a Data Warehouse
 The ecommerce company has provided you the sample data.
-![Sample Data](../workscreenshots/ecom-sample-data.png)
+![Sample Data](../IBM/ecom-sample-data.png)
 
 
 You will start your project by designing a Star Schema for the warehouse by identifying the columns for the various dimension and fact tables in the schema. Name your database as softcart
