@@ -26,7 +26,7 @@ The dataset you would be using in this assignment is not a real life dataset. It
 
 Exercise 1 - Design a Data Warehouse
 The ecommerce company has provided you the sample data.
-![Sample Data](workscreenshots/ecom-sample-data.png)
+![Sample Data](../workscreenshots/ecom-sample-data.png)
 
 
 You will start your project by designing a Star Schema for the warehouse by identifying the columns for the various dimension and fact tables in the schema. Name your database as softcart
@@ -46,7 +46,7 @@ monthname
 
 …
 
-![softcartDimDate](workscreenshots/softcartDimDate.jpg)
+![softcartDimDate](../workscreenshots/softcartDimDate.jpg)
 
 ## Task 2 - Design the dimension table softcartDimCategory
 Using the ERD design tool design the table softcartDimCategory.
@@ -57,19 +57,19 @@ Using the ERD design tool design the table softcartDimItem.
 ## Task 4 - Design the dimension table softcartDimCountry
 Using the ERD design tool design the table softcartDimCountry.
 
-![dimtables](workscreenshots/dimtables.png)
+![dimtables](../workscreenshots/dimtables.png)
 
 ## Task 5 - Design the fact table softcartFactSales
 Using the ERD design tool design the table softcartFactSales.
 
 Take a screenshot of the table softcartFactSales in the ERD tool clearly showing all the fieldnames and data types.
 
-![softcartFactSales](workscreenshots/softcartFactSales.png)
+![softcartFactSales](../workscreenshots/softcartFactSales.png)
 
 ## Task 6 - Design the relationships
 Using the ERD design tool design the required relationships(one-to-one, one-to-many etc) amongst the tables.
 
-![softcartRelationships](workscreenshots/softcartRelationships.png)
+![softcartRelationships](../workscreenshots/softcartRelationships.png)
 
 # Exercise 2 - Create the schema
 In this exercise you will create the schema of the data warehouse.
@@ -79,7 +79,7 @@ Download the schema sql from ERD tool and create the schema in a database named 
 
 Take a screenshot showing the success of the schema creation.
 
-![Create Schema](workscreenshots/createschema.png)
+![Create Schema](../workscreenshots/createschema.png)
 
 ---
 |  PREV : [NoSql database - MongoDB](NoSQL.md) | UP:  [Project Main](Project.md) | NEXT : [Production Data warehouse – PostgresSQL or IBM DB2 on cloud](Production.md)
