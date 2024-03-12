@@ -35,7 +35,7 @@ Before you start the assignment:
 In this exercise you will load the data into the tables. You will load the data provided by the company in csv format.
 
 ## Task 1 - Load data into the dimension table DimDate
-Download the data from this link [../IBM/DimDate.csv](DimDate.csv)
+Download the data from this link [DimDate.csv](../IBM/DimDate.csv)
 
 Load the downloaded data into DimDate table.
 
@@ -44,14 +44,14 @@ Take a screenshot of the first 5 rows in the table DimDate.
 
 
 ## Task 2 - Load data into the dimension table DimCategory
-Download the data from this link [../IBM/DimCategory.csv](DimCategory.csv)
+Download the data from this link [DimCategory.csv](../IBM/DimCategory.csv)
 Load the downloaded data into DimCategory table.
 
 Take a screenshot of the first 5 rows in the table DimCategory.
 ![Screenshot of 5 rows of DimCategory](../workscreenshots/dimcategory.png)
 
 ## Task 3 - Load data into the dimension table DimCountry
-Download the data from this link [../IBM/DimCountry.csv](DimCountry.csv)
+Download the data from this link [DimCountry.csv](../IBM/DimCountry.csv)
 
 Load the downloaded data into DimCountry table.
 
@@ -60,7 +60,7 @@ Take a screenshot of the first 5 rows in the table DimCountry.
 Name the screenshot DimCountry.jpg. (Images can be saved with either the .jpg or .png extension.)
 
 ## Task 4 - Load data into the fact table FactSales
-Download the data from this link [../IBM/FactSales.csv](FactSales.csv)
+Download the data from this link [FactSales.csv](../IBM/FactSales.csv)
 
 Load this data into FactSales table.
 
